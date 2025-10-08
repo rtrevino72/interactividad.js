@@ -9,3 +9,11 @@ let esMayorDeEdad = edad >= 18; // Variable formato camelcase
 nombre = "Luis"
 edad = 37;
 console.log("Hola" + nombre);
+
+function saludar(_nombre="Mundo") {
+    alert("Hola" + _nombre);
+}
+
+saludar();
+saludar(nombre);
+saludar("Ana")
