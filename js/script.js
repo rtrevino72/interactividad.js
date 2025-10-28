@@ -1,5 +1,5 @@
 // asi se declara una variable
-var nombre = "Regina"; // string - tipo cadena de texto
+var nombre = "Amaia"; // string - tipo cadena de texto
 let edad = 36;
 const PI = 3.14159265358979323846;
 
